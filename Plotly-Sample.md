@@ -1,7 +1,7 @@
 Closing Prices of European Stock Indices (1991-1998)
 ========================================================
-author: Yash Kumar Singh
-date: September 2, 2017
+author: Vivek Jha
+date: December 25, 2017
 autosize: true
 
 
